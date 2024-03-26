@@ -20,22 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Imagens de gatos pouco realistas porém muito aesthetics ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+São simplesmente algumas imagens de gatos, geradas por meio de inteligência artificial, utilizando apenas uma frase como instrução.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Microsoft Copilot.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Simplesmente pedi para que o Copilot criasse imagens de "gatos realistas".
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Link para as imagens geradas: https://drive.google.com/drive/folders/1TQiD-CFz4D59a58u1XTOYyMIlfgvJXWq?usp=sharing
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Na realidade foi algo bem simples, e acredito que esse seja o intuito da IA. Algo para facilitar nossas vidas.
 ```
 
 ### Exemplos e Insigths
